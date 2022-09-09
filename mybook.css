@@ -1,0 +1,31 @@
+.header-site{
+    background-image: url(livros4.png);
+    background-position: center-top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+.content-site{
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+}
+.img{
+    background-image: url(livros5.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    color: white;
+}
+.rodape{
+    background-color: #333333;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
